@@ -13,6 +13,12 @@
 
 A proposta do projeto é criar um espelho inteligente, toda pergunta realizada será refletida no espelho.  
 
+## Descrição do hardware utilizado :
+ - Processador Rasberry Pi 3b 
+ - Celular para comando de voz
+ - Projetor
+ - Caixas de som
+ 
 _______________________________________
 Obs:
 
