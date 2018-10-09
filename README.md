@@ -1,17 +1,17 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [Objetos Inteligentes Conectados] 09 out. 2019
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 5J11
+## Projeto: "Espelho Inteligente"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Leticia Souza
+* Nathalia Sellis
+* Rafael Acayaba
+* Fernando 
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+A proposta do projeto é criar um espelho inteligente, toda pergunta realizada será refletida no espelho.  
 
 _______________________________________
 Obs:
