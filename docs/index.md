@@ -1,4 +1,4 @@
-# *Nome do Projeto*
+# *Nome do Projeto: Espelho Inteligente*
 
 ## Documentos
 * Documentação Hardware
