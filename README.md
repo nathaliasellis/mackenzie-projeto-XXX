@@ -19,6 +19,9 @@ A proposta do projeto é criar um espelho inteligente, toda pergunta realizada s
  - Projetor
  - Caixas de som
  
+ ### Protótipo
+![](prototipo.png)
+ 
 _______________________________________
 Obs:
 
